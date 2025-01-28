@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d41ea0c4101de8bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c96559ad59c179f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc017144932c993",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "03_Arduino.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "03_Arduino.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5f8105f8065a34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee3aa1afd1dd21c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64819d08c2f676af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "465fc665b3ce1fa2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43e8afbfb7baa8ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83c82499df33fe16",
+    "type": "split",
+    "children": [
+      {
+        "id": "b042ec134f2ab0f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2b94fbe8a634a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Arduino.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_Arduino.excalidraw"
+            }
+          },
+          {
+            "id": "da30251278f1ef9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Arduino.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_Arduino.excalidraw"
+            }
+          },
+          {
+            "id": "9e60d52909aed2e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dea06cead4bd22d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Arduino.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_Arduino.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3dc017144932c993",
+  "lastOpenFiles": [
+    "02_Активные электронные компоненты.excalidraw.md",
+    "03_Arduino.excalidraw.md",
+    "images/Pasted Image 20250128161854_940.png",
+    "images/Pasted Image 20250128161050_998.png",
+    "images/Pasted Image 20250128160902_327.png",
+    "images/Pasted Image 20250128115509_783.png",
+    "images",
+    "Новая папка",
+    "01_Пассивные электронные компоненты.excalidraw.md",
+    "00_Структура информационной системы.excalidraw.md"
+  ]
+}
