@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c96559ad59c179f",
+        "id": "2663717a50ebfb12",
         "type": "tabs",
         "children": [
           {
-            "id": "3dc017144932c993",
+            "id": "b593340636832aff",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "03_Arduino.excalidraw.md"
+                "file": "Данные в Си.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "03_Arduino.excalidraw"
+              "title": "Данные в Си.excalidraw"
             }
           }
         ]
@@ -38,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,20 +159,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3dc017144932c993",
+  "active": "b593340636832aff",
   "lastOpenFiles": [
-    "02_Активные электронные компоненты.excalidraw.md",
     "03_Arduino.excalidraw.md",
+    "00_Структура информационной системы.excalidraw.md",
+    "Данные в Си.excalidraw.md",
+    "02_Активные электронные компоненты.excalidraw.md",
+    "01_Пассивные электронные компоненты.excalidraw.md",
     "images/Pasted Image 20250128161854_940.png",
     "images/Pasted Image 20250128161050_998.png",
     "images/Pasted Image 20250128160902_327.png",
     "images/Pasted Image 20250128115509_783.png",
     "images",
-    "Новая папка",
-    "01_Пассивные электронные компоненты.excalidraw.md",
-    "00_Структура информационной системы.excalidraw.md"
+    "Новая папка"
   ]
 }
